@@ -4,9 +4,9 @@
 
 apt update && apt upgrade
 
-pkg install python
+pkg install python -y
 
-pkg install git
+pkg install git -y
 
 git clone https://github.com/ShakilH2SO4/Auto-Follower
 
