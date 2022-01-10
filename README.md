@@ -1,7 +1,5 @@
 # FB Auto-Follower
 
-#Shakil Hasan
-
 # Installation
 
 apt update && apt upgrade
